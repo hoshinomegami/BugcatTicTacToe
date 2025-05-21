@@ -16,7 +16,7 @@ A modern, animated Tic Tac Toe game built with HTML, CSS, JavaScript, and deploy
 - 👫 Two-player mode toggle
 - ⏱️ Timer and mute toggle
 - 💻 Responsive design
-- 🖼️ Splash screen featuring `nojima3_icon`
+- 🖼️ Splash screen(-ish) featuring `nojima3_icon`
 - 📦 Packaged as an Android app using WebView
 
 ---
