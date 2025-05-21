@@ -50,7 +50,7 @@ Open `index.html` in any modern browser.
 
 ## 👤 Author
  
-[GitHub Profile](https://github.com/yourusername)  
+[GitHub Profile](https://github.com/hoshinomegami)  
 _ET 570 Term Project – Spring 2025_
 
 ---
