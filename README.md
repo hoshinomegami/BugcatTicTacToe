@@ -33,7 +33,7 @@ A modern, animated Tic Tac Toe game built with HTML, CSS, JavaScript, and deploy
 Open `index.html` in any modern browser.
 
 ### 🤖 Install the Android App
-1. Download the latest [APK release](https://github.com/yourusername/BugcatTicTacToe/releases)
+1. Download the latest [APK release](https://github.com/hoshinomegami/BugcatTicTacToeApp/releases/download/v1.0/app-debug.apk)
 2. Transfer to your Android device
 3. Open it and install (enable "Install from Unknown Sources" if needed)
 
